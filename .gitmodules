@@ -15,5 +15,5 @@
   url = https://github.com/tinygrad/tinygrad.git
 [submodule "opendbc_repo"]
 	path = opendbc_repo
-	url = https://github.com/mvl-boston/opendbc
-	branch = mdx-2022
+	url = https://github.com/teremo-edu/opendbc
+	branch = mdx-2022-arvind
